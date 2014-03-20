@@ -1,1 +1,10 @@
-{"version": "2014.02.07.09.40.52", "url": "https://github.com/programadorsito/cCompletion", "description": "completion of all functions for C"}
+{
+	"name": "Alignment",
+	"details": "https://github.com/programadorsito/cCompletion",
+	"releases": [
+		{
+			"sublime_text": "c function completions",
+			"details": "https://github.com/programadorsito/cCompletion"
+		}
+	]
+}
